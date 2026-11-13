@@ -166,7 +166,7 @@ Source Data  (Sales · Products · Dealers · Regions · Targets)
 
 A high-level snapshot of business performance with headline KPIs, monthly revenue trends, target tracking, category contribution and a category-wise executive scorecard. Top slicers: **Date, Region**. Sidebar filters: **Product Category, Dealer Type, State, Zone**.
 
-![Executive Overview Dashboard](Assets/Executive_Overview.png)
+![Executive Overview Dashboard](Screenshots/Executive_Overview.png)
 
 ---
 
@@ -225,7 +225,7 @@ A high-level snapshot of business performance with headline KPIs, monthly revenu
 
 Analyses performance across **Region › Zone › State › City**. Top slicers: **Date, Hierarchy Level**. Sidebar filters: **Product Category, Dealer Type, State, Zone**.
 
-![Regional Performance Dashboard](Assets/Regional_Performance.png)
+![Regional Performance Dashboard](Screenshots/Regional_Performance.png)
 
 ---
 
@@ -281,7 +281,7 @@ Analyses performance across **Region › Zone › State › City**. Top slicers:
 
 Comprehensive insights across **Product › Sub-Category › Product**. Top slicers: **Date, Hierarchy Level**. Sidebar filters: **Category, Sub-Category, Product, Price Tier**.
 
-![Product Analytics Dashboard](Assets/Product_Analytics.png)
+![Product Analytics Dashboard](Screenshots/Product_Analytics.png)
 
 ---
 
@@ -325,7 +325,7 @@ Comprehensive insights across **Product › Sub-Category › Product**. Top slic
 
 Tracks and analyses dealer performance across India. Top slicers: **Date, Hierarchy Level, Dealer Type**. Sidebar filters: **Dealer Type, Region, Zone, State, City**.
 
-![Dealer Performance Dashboard](Assets/Dealer_Performance.png)
+![Dealer Performance Dashboard](Screenshots/Dealer_Performance.png)
 
 ---
 
@@ -372,7 +372,7 @@ Tracks and analyses dealer performance across India. Top slicers: **Date, Hierar
 
 Tracks performance trends, growth and future outlook for leadership reviews. Top slicers: **Date, Hierarchy Level**. Sidebar filters: **Region, Zone, Category, Dealer Type**.
 
-![Trends & Executive Summary Dashboard](Assets/Trends_Executive_Summary.png)
+![Trends & Executive Summary Dashboard](Screenshots/Trends_Executive_Summary.png)
 
 ---
 
